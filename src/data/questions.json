@@ -1,0 +1,222 @@
+{
+    "questions": [
+        {
+            "question": "How many blackheads or whitehead (comedones) do you have on your face or body?",
+            "grades": [1, 2, 3, 4],
+            "answers": {
+              "1": "Less than 10",
+              "2": "10-30",
+              "3":  "More than 30",
+              "4": "So many , i can't count"
+            },
+            "options": ["Less than 10", "10-30", "More than 30", "So many , i can't count"],
+            "weight": 0.3
+          },
+        
+            {
+                "question": "Do you have small, red raised pimples in addition to blackheads and whiteheads?",
+                "grades": [2],
+                "answers": {
+                  "2": "Yes"
+                },
+                "options": ["Yes", "No"],
+                "weight": 0.3
+            },
+            
+            {
+              "question": "Do you have small pimples pr bumps, but without redness and swelling?",
+              "grades": [1],
+              "answers": {
+                "1": "Yes"
+              },
+              "options": ["Yes", "No"],
+              "weight": 0.3
+          },
+            {
+                "question": "How often do you experience redness or mild inflammation around your pimples?",
+                "grades": [2, 3, 4],
+                "answers": {
+                  "2": "Rarely",
+                  "3": "Often",
+                  "4": "Very often"
+                },
+                "options": ["Rarely",  "Often","Very often", "Never"],
+                "weight": 0.25
+            },
+            {
+                "question": "Do your pimples sometimes become tender or mildly painful, especially when touched?",
+                "grades": [1,2,3],
+                "answers": {
+                  "1": "No",
+                  "2": "Yes",
+                  "3": "Yes"
+                },
+                "options": ["No","Yes"],
+                "weight": 0.25
+              },
+              {
+                "question": "Do you notice your acne mostly around the T-zone (forehead, nose, and chin), or has it spread to your cheeks and jaw?",
+                "grades": [1,2,3],
+                "answers": {
+                  "1": "Only in T-zone",
+                  "2": "Spreading to cheeks and jawline",
+                  "3": "Widespread"
+                },
+                "options": ["Only in T-zone",  "Spreading to cheeks and jawline","Widespread"],
+                "weight": 0.3
+              },
+              {
+                "question": "Does your skin stay oily throughout the day, especially in areas around acne?",
+                "grades": [1,2],
+                "answers": {
+                  "1": "No, or Mild oily",
+                  "2": "Yes"
+                },
+                "options": ["No, or Mild oily","Yes"],
+                "weight": 0.4
+              },
+              {
+                "question": "Do you have large, painful pimples that contain pus?",
+                "grades": [2,3, 4],
+                "answers": {
+                  "3": "Yes",
+                  "4": "Yes",
+                  "2":"Yes, but not really swollen"
+                },
+                "options": ["No", "Yes","Yes, but not really swollen"],
+                "weight": 0.25
+              },
+              {
+                "question": "How frequently do you experience moderate to severe redness around your pimples or cysts?",
+                "grades": [3, 4],
+                "answers": {
+                  "3": "Sometimes",
+                  "4": "Often"
+                },
+                "options": ["Never","Rarely", "Sometimes", "Often"],
+                "weight": 0.3
+              },
+              {
+                "question": "Do you have deep, painful cysts or nodules that feel hard under the skin?",
+                "grades": [4],
+                "answers": {
+                  "4": "Yes, very painful"
+                },
+                "options": ["No","Yes, very painful"],
+                "weight": 0.4
+              },
+              {
+                "question": "Have you noticed a widespread appearance of these pimples on different parts of your body other than your face?",
+                "grades": [3, 4],
+                "answers": {
+                  "3": "Few spots on body",
+                  "4": "Widespread on body"
+                },
+                "options": ["No", "Few spots on body", "Widespread on body"],
+                "weight": 0.3
+              },
+              {
+                "question": "Have you noticed any scars or marks from previous breakouts?",
+                "grades": [3, 4],
+                "answers": {
+                  "3": "Some mild marks",
+                  "4": "Deep scars"
+                },
+                "options": ["No", "Some mild marks", "Deep scars"],
+                "weight": 0.3
+              },
+             
+              {
+                "question": "How long have you been experiencing these breakouts?",
+                "grades": [1, 2, 3, 4],
+                "answers": {
+                  "1": "Less than 3 months",
+                  "2": "3-6 months",
+                  "3": "6-12 months",
+                  "4": "Over a year"
+                },
+                "options": ["Less than 3 months", "3-6 months", "6-12 months", "Over a year"],
+                "weight": 0.15
+              },
+              {
+                "question": "Has your acne worsened over time?",
+                "grades": [2, 3, 4],
+                "answers": {
+                  "2": "Slightly worsened",
+                  "3": "Moderately worsened",
+                  "4": "Significantly worsened"
+                },
+                "options": ["No change", "Slightly worsened", "Moderately worsened", "Significantly worsened"],
+                "weight": 0.15
+              },
+              {
+                "question": "Do you have minor redness on your face?",
+                "grades": [2, 3],
+                "answers": {
+                  "2": "Slight redness",
+                  "3": "Moderate redness"
+                },
+                "options": ["No", "Slight redness", "Moderate redness", "Severe redness"],
+                "weight": 0.3
+              },
+              {
+                "question": "Do you have visible whiteheads and blackhead(comedones)?",
+                "grades": [1, 2],
+                "answers": {
+                  "1": "Yes, but few",
+                  "2": "Yes, there are multiple blackhead and whiteheads"
+                },
+                "options": ["No", "Yes, but few", "Yes, there are multiple blackhead and whiteheads"],
+                "weight": 0.25
+              },
+              {
+                "question": "Do you face noticeable pigmentation?",
+                "grades": [2, 3, 4],
+                "answers": {
+                  "2": "Mild pigmentation",
+                  "3": "Moderate pigmentation",
+                  "4": "Severe pigmentation"
+                },
+                "options": ["No", "Mild blemishes", "Moderate blemishes", "Severe blemishes"],
+                "weight": 0.15
+              },
+            {
+                "question": "Is your acne mainly visible only under bright light or close inspection?",
+                "grades": [1],
+                "answers": {
+                    "1": "Yes, only close-up"
+                },
+                "options": ["No", "Yes, only close-up"],
+                "weight": 0.2
+            },
+            {
+                "question": "Do your breakouts disappear within a few days without scarring?",
+                "grades": [1],
+                "answers": {
+                    "1": "Yes, mostly"
+                },
+                "options": ["No", "Yes, mostly"],
+                "weight": 0.15
+            },
+            {
+                "question": "Is your acne limited to only one specific area (e.g., forehead, nose, chin)?",
+                "grades": [1],
+                "answers": {
+                    "1": "Yes"
+                },
+                "options": ["Yes", "No"],
+                "weight": 0.20
+            },
+            {
+                "question": "Do you often feel deep pain even when not touching your acne?",
+                "grades": [4],
+                "answers": {
+                    "4": "Yes"
+                },
+                "options": ["No", "Yes"],
+                "weight": 0.35
+            }
+        
+    ]
+  }
+  

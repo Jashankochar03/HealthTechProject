@@ -1,0 +1,659 @@
+[2025-04-18 11:30:11,028: Welcome to my custom log: main: Welcome to my custom log]
+[2025-04-21 20:35:59,825: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 20:35:59,832: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 20:38:13,211: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 20:38:13,213: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 20:38:31,367: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 20:38:31,367: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 20:38:59,368: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 20:38:59,369: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 20:39:36,113: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 20:39:36,116: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 20:42:32,596: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 20:42:32,605: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 20:42:32,605: created directory at artifacts: common: created directory at artifacts]
+[2025-04-21 20:42:32,614: created directory at artifacts/data_ingestion: common: created directory at artifacts/data_ingestion]
+[2025-04-21 20:44:22,691: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 20:44:22,691: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 20:44:22,691: created directory at artifacts: common: created directory at artifacts]
+[2025-04-21 20:44:22,699: created directory at artifacts/data_ingestion: common: created directory at artifacts/data_ingestion]
+[2025-04-21 20:44:23,961: Downloaded artifacts/data_ingestion/4classData.zip with following info : Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Mon, 21 Apr 2025 15:14:23 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=523=Lmoj8Rkkp8MgysOs_JAcHTA1Mq_k5QqIU_fHaDYmY5sYkfjVT53DQ0hTy9rnuDg9SY0B_X1KNRlafSOIoKgXo4u-M7IvJA9IQDnMoGKV9Fn7z_tcU4FYtEh8mO1wsA3dgj_PVkay6dSQO6UjWfYpWuFW-VDN3a6ZNg-R2VT40kZq4HVfy9eU7GLXAMB8kCIJ; expires=Tue, 21-Oct-2025 15:14:23 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+: 1858688688: Downloaded artifacts/data_ingestion/4classData.zip with following info : Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Mon, 21 Apr 2025 15:14:23 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=523=Lmoj8Rkkp8MgysOs_JAcHTA1Mq_k5QqIU_fHaDYmY5sYkfjVT53DQ0hTy9rnuDg9SY0B_X1KNRlafSOIoKgXo4u-M7IvJA9IQDnMoGKV9Fn7z_tcU4FYtEh8mO1wsA3dgj_PVkay6dSQO6UjWfYpWuFW-VDN3a6ZNg-R2VT40kZq4HVfy9eU7GLXAMB8kCIJ; expires=Tue, 21-Oct-2025 15:14:23 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-04-21 20:54:11,950: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 20:54:11,953: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 20:54:11,954: created directory at artifacts: common: created directory at artifacts]
+[2025-04-21 20:54:11,955: created directory at artifacts/data_ingestion: common: created directory at artifacts/data_ingestion]
+[2025-04-21 20:59:07,809: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 20:59:07,810: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 20:59:07,811: created directory at artifacts: common: created directory at artifacts]
+[2025-04-21 20:59:07,812: created directory at artifacts/data_ingestion: common: created directory at artifacts/data_ingestion]
+[2025-04-21 20:59:07,812: artifacts\data_ingestion\4classData.zip already exists of size ~ 92 KB: 2236992415: artifacts\data_ingestion\4classData.zip already exists of size ~ 92 KB]
+[2025-04-21 21:01:07,412: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 21:01:07,414: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 21:01:07,414: created directory at artifacts: common: created directory at artifacts]
+[2025-04-21 21:01:07,415: created directory at artifacts/data_ingestion: common: created directory at artifacts/data_ingestion]
+[2025-04-21 21:02:17,522: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 21:02:17,523: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 21:02:17,523: created directory at artifacts: common: created directory at artifacts]
+[2025-04-21 21:02:17,524: created directory at artifacts/data_ingestion: common: created directory at artifacts/data_ingestion]
+[2025-04-21 21:07:49,165: Downloaded file to artifacts/data_ingestion/4classData.zip: 2236992415: Downloaded file to artifacts/data_ingestion/4classData.zip]
+[2025-04-21 21:07:56,925: Extracted zip file to artifacts/data_ingestion: 2236992415: Extracted zip file to artifacts/data_ingestion]
+[2025-04-21 21:47:40,136: Starting Data Ingestion stage: main: Starting Data Ingestion stage]
+[2025-04-21 21:47:40,137: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-21 21:47:40,137: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-21 21:47:40,137: created directory at artifacts: common: created directory at artifacts]
+[2025-04-21 21:47:40,137: created directory at artifacts/data_ingestion: common: created directory at artifacts/data_ingestion]
+[2025-04-21 21:53:55,925: Downloaded file to artifacts/data_ingestion/4classData.zip: data_ingestion: Downloaded file to artifacts/data_ingestion/4classData.zip]
+[2025-04-21 21:54:04,087: Extracted zip file to artifacts/data_ingestion: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-04-21 21:54:04,090: Data Ingestion stage completed successfully: main: Data Ingestion stage completed successfully]
+[2025-04-24 22:12:19,865: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-24 22:12:19,872: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-24 22:12:19,878: created directory at artifacts/prepare_base_model: common: created directory at artifacts/prepare_base_model]
+[2025-04-24 22:15:22,906: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-24 22:15:22,906: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-24 22:15:22,906: created directory at artifacts/prepare_base_model: common: created directory at artifacts/prepare_base_model]
+[2025-04-28 18:35:07,111: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-28 18:35:07,120: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-28 18:35:07,120: created directory at artifacts/prepare_base_model: common: created directory at artifacts/prepare_base_model]
+[2025-04-28 18:38:00,180: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-28 18:38:00,185: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-28 18:38:00,185: created directory at artifacts/prepare_base_model: common: created directory at artifacts/prepare_base_model]
+[2025-04-28 19:42:44,694: Starting Data Ingestion stage: main: Starting Data Ingestion stage]
+[2025-04-28 19:42:44,697: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-28 19:42:44,698: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-28 19:42:44,698: created directory at artifacts: common: created directory at artifacts]
+[2025-04-28 19:42:44,700: created directory at artifacts/data_ingestion: common: created directory at artifacts/data_ingestion]
+[2025-04-28 19:48:12,338: Downloaded file to artifacts/data_ingestion/4classData.zip: data_ingestion: Downloaded file to artifacts/data_ingestion/4classData.zip]
+[2025-04-28 19:48:18,021: Extracted zip file to artifacts/data_ingestion: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-04-28 19:48:18,023: Data Ingestion stage completed successfully: main: Data Ingestion stage completed successfully]
+[2025-04-28 19:48:18,023: ****************: main: ****************]
+[2025-04-28 19:48:18,023: Starting Prepare Base Model stage pipeline...: main: Starting Prepare Base Model stage pipeline...]
+[2025-04-28 19:48:18,024: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-28 19:48:18,024: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-28 19:48:18,024: created directory at artifacts: common: created directory at artifacts]
+[2025-04-28 19:48:18,026: created directory at artifacts/prepare_base_model: common: created directory at artifacts/prepare_base_model]
+[2025-04-28 19:48:18,898: Prepare Base Model stage pipeline completed successfully.: main: Prepare Base Model stage pipeline completed successfully.]
+[2025-04-28 20:55:45,209: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-28 20:55:45,211: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-28 20:55:45,214: created directory at artifacts: common: created directory at artifacts]
+[2025-04-28 20:55:45,217: created directory at artifacts\prepare_callbacks\checkpoint_dir: common: created directory at artifacts\prepare_callbacks\checkpoint_dir]
+[2025-04-28 20:55:45,219: created directory at artifacts\prepare_callbacks\tensorboard_log_dir: common: created directory at artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-04-28 21:53:51,586: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-28 21:53:51,593: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-28 21:53:51,597: created directory at artifacts: common: created directory at artifacts]
+[2025-04-28 21:53:51,597: created directory at artifacts\prepare_callbacks\checkpoint_dir: common: created directory at artifacts\prepare_callbacks\checkpoint_dir]
+[2025-04-28 21:53:51,601: created directory at artifacts\prepare_callbacks\tensorboard_log_dir: common: created directory at artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-04-28 21:53:51,601: created directory at artifacts\training: common: created directory at artifacts\training]
+[2025-04-28 21:54:32,585: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-28 21:54:32,585: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-28 21:54:32,591: created directory at artifacts: common: created directory at artifacts]
+[2025-04-28 21:54:32,593: created directory at artifacts\prepare_callbacks\checkpoint_dir: common: created directory at artifacts\prepare_callbacks\checkpoint_dir]
+[2025-04-28 21:54:32,593: created directory at artifacts\prepare_callbacks\tensorboard_log_dir: common: created directory at artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-04-28 21:54:32,593: created directory at artifacts\training: common: created directory at artifacts\training]
+[2025-04-28 21:56:08,069: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-28 21:56:08,075: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-28 21:56:08,075: created directory at artifacts: common: created directory at artifacts]
+[2025-04-28 21:56:08,075: created directory at artifacts\prepare_callbacks\checkpoint_dir: common: created directory at artifacts\prepare_callbacks\checkpoint_dir]
+[2025-04-28 21:56:08,075: created directory at artifacts\prepare_callbacks\tensorboard_log_dir: common: created directory at artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-04-28 21:56:08,075: created directory at artifacts\training: common: created directory at artifacts\training]
+[2025-04-28 22:05:13,956: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-28 22:05:13,978: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-28 22:05:13,981: created directory at artifacts: common: created directory at artifacts]
+[2025-04-28 22:05:13,981: created directory at artifacts\prepare_callbacks\checkpoint_dir: common: created directory at artifacts\prepare_callbacks\checkpoint_dir]
+[2025-04-28 22:05:13,987: created directory at artifacts\prepare_callbacks\tensorboard_log_dir: common: created directory at artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-04-28 22:05:13,988: created directory at artifacts\training: common: created directory at artifacts\training]
+[2025-04-29 00:09:18,741: Starting Data Ingestion stage: main: Starting Data Ingestion stage]
+[2025-04-29 00:09:18,755: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-29 00:09:18,756: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-29 00:09:18,758: created directory at artifacts: common: created directory at artifacts]
+[2025-04-29 00:09:18,759: created directory at artifacts/data_ingestion: common: created directory at artifacts/data_ingestion]
+[2025-04-29 00:09:55,155: Downloaded file to artifacts/data_ingestion/4classData.zip: data_ingestion: Downloaded file to artifacts/data_ingestion/4classData.zip]
+[2025-04-29 00:10:02,277: Extracted zip file to artifacts/data_ingestion: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-04-29 00:10:02,277: Data Ingestion stage completed successfully: main: Data Ingestion stage completed successfully]
+[2025-04-29 00:10:02,277: ****************: main: ****************]
+[2025-04-29 00:10:02,277: Starting Prepare Base Model stage pipeline...: main: Starting Prepare Base Model stage pipeline...]
+[2025-04-29 00:10:02,277: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-29 00:10:02,277: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-29 00:10:02,287: created directory at artifacts: common: created directory at artifacts]
+[2025-04-29 00:10:02,289: created directory at artifacts/prepare_base_model: common: created directory at artifacts/prepare_base_model]
+[2025-04-29 00:10:03,778: Prepare Base Model stage pipeline completed successfully.: main: Prepare Base Model stage pipeline completed successfully.]
+[2025-04-29 00:10:03,778: Starting Training stage stage...: main: Starting Training stage stage...]
+[2025-04-29 00:10:03,783: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-29 00:10:03,786: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-29 00:10:03,786: created directory at artifacts: common: created directory at artifacts]
+[2025-04-29 00:10:03,787: created directory at artifacts\prepare_callbacks\checkpoint_dir: common: created directory at artifacts\prepare_callbacks\checkpoint_dir]
+[2025-04-29 00:10:03,789: created directory at artifacts\prepare_callbacks\tensorboard_log_dir: common: created directory at artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-04-29 00:10:03,789: created directory at artifacts\training: common: created directory at artifacts\training]
+[2025-04-29 00:10:04,095: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\4_class_model': main: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\4_class_model']
+Traceback (most recent call last):
+  File "C:\SkinDiseaseProject\skin_disease_predictor\main.py", line 35, in <module>
+    obj.main()
+  File "C:\SkinDiseaseProject\skin_disease_predictor\src\Acne_Prediction\pipeline\stage_03_training.py", line 21, in main
+    training.train_valid_generator()
+  File "c:\skindiseaseproject\skin_disease_predictor\src\Acne_Prediction\components\training.py", line 31, in train_valid_generator
+    self.valid_generator = valid_data_generator.flow_from_directory(
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jashk\.conda\envs\venv\Lib\site-packages\keras\src\legacy\preprocessing\image.py", line 1138, in flow_from_directory
+    return DirectoryIterator(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jashk\.conda\envs\venv\Lib\site-packages\keras\src\legacy\preprocessing\image.py", line 453, in __init__
+    for subdir in sorted(os.listdir(directory)):
+                         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\4_class_model'
+[2025-04-29 00:14:26,758: Starting Data Ingestion stage: main: Starting Data Ingestion stage]
+[2025-04-29 00:14:26,758: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-29 00:14:26,758: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-29 00:14:26,758: created directory at artifacts: common: created directory at artifacts]
+[2025-04-29 00:14:26,767: created directory at artifacts/data_ingestion: common: created directory at artifacts/data_ingestion]
+[2025-04-29 00:15:03,082: Downloaded file to artifacts/data_ingestion/4classData.zip: data_ingestion: Downloaded file to artifacts/data_ingestion/4classData.zip]
+[2025-04-29 00:15:11,991: Extracted zip file to artifacts/data_ingestion: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-04-29 00:15:11,991: Data Ingestion stage completed successfully: main: Data Ingestion stage completed successfully]
+[2025-04-29 00:15:11,991: ****************: main: ****************]
+[2025-04-29 00:15:11,991: Starting Prepare Base Model stage pipeline...: main: Starting Prepare Base Model stage pipeline...]
+[2025-04-29 00:15:12,001: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-29 00:15:12,003: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-29 00:15:12,005: created directory at artifacts: common: created directory at artifacts]
+[2025-04-29 00:15:12,006: created directory at artifacts/prepare_base_model: common: created directory at artifacts/prepare_base_model]
+[2025-04-29 00:15:13,970: Prepare Base Model stage pipeline completed successfully.: main: Prepare Base Model stage pipeline completed successfully.]
+[2025-04-29 00:15:13,971: Starting Training stage stage...: main: Starting Training stage stage...]
+[2025-04-29 00:15:13,975: Successfully loaded configuration from config\config.yaml: common: Successfully loaded configuration from config\config.yaml]
+[2025-04-29 00:15:13,977: Successfully loaded configuration from params.yaml: common: Successfully loaded configuration from params.yaml]
+[2025-04-29 00:15:13,978: created directory at artifacts: common: created directory at artifacts]
+[2025-04-29 00:15:13,981: created directory at artifacts\prepare_callbacks\checkpoint_dir: common: created directory at artifacts\prepare_callbacks\checkpoint_dir]
+[2025-04-29 00:15:13,981: created directory at artifacts\prepare_callbacks\tensorboard_log_dir: common: created directory at artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-04-29 00:15:13,981: created directory at artifacts\training: common: created directory at artifacts\training]
+[2025-04-29 23:59:24,611: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.245:8080: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.245:8080]
+[2025-04-29 23:59:24,614: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-29 23:59:24,618:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-29 23:59:40,807:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-29 23:59:40,816:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-29 23:59:51,777: 127.0.0.1 - - [29/Apr/2025 23:59:51] "[35m[1mGET / HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [29/Apr/2025 23:59:51] "[35m[1mGET / HTTP/1.1[0m" 500 -]
+[2025-04-29 23:59:51,976: 127.0.0.1 - - [29/Apr/2025 23:59:51] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [29/Apr/2025 23:59:51] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -]
+[2025-04-29 23:59:51,984: 127.0.0.1 - - [29/Apr/2025 23:59:51] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [29/Apr/2025 23:59:51] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -]
+[2025-04-29 23:59:52,367: 127.0.0.1 - - [29/Apr/2025 23:59:52] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=iZdF4xI6mzAXrH12CkBc HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [29/Apr/2025 23:59:52] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=iZdF4xI6mzAXrH12CkBc HTTP/1.1" 200 -]
+[2025-04-29 23:59:52,640: 127.0.0.1 - - [29/Apr/2025 23:59:52] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [29/Apr/2025 23:59:52] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -]
+[2025-04-30 00:03:17,639: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.245:8080: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.245:8080]
+[2025-04-30 00:03:17,639: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-30 00:03:17,639:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:03:24,176:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:03:24,176:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:03:32,057: 127.0.0.1 - - [30/Apr/2025 00:03:32] "GET / HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:03:32] "GET / HTTP/1.1" 200 -]
+[2025-04-30 00:04:08,561: 127.0.0.1 - - [30/Apr/2025 00:04:08] "POST /predict HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:04:08] "POST /predict HTTP/1.1" 200 -]
+[2025-04-30 00:06:39,222:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-04-30 00:06:40,330:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:06:49,919:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:06:49,929:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:06:59,901:  * Detected change in 'c:\\skindiseaseproject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'c:\\skindiseaseproject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-04-30 00:07:00,716:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:07:09,588:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:07:09,588:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:07:16,963:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-04-30 00:07:17,828:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:07:25,361:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:07:25,368:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:07:32,294:  * Detected change in 'c:\\skindiseaseproject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'c:\\skindiseaseproject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-04-30 00:07:32,876:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:07:40,918:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:07:40,918:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:07:44,109:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-04-30 00:07:44,628:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:07:52,566:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:07:52,571:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:07:54,426:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-04-30 00:07:55,277:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:08:15,786: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.245:8080: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.245:8080]
+[2025-04-30 00:08:15,787: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-30 00:08:15,787:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:08:24,186:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:08:24,190:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:08:26,280: 127.0.0.1 - - [30/Apr/2025 00:08:26] "GET / HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:08:26] "GET / HTTP/1.1" 200 -]
+[2025-04-30 00:08:47,389: 127.0.0.1 - - [30/Apr/2025 00:08:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:08:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2025-04-30 00:09:30,241:  * Detected change in 'c:\\skindiseaseproject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'c:\\skindiseaseproject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-04-30 00:09:31,408:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:09:39,123:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:09:39,137:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:09:40,612:  * Detected change in 'c:\\skindiseaseproject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'c:\\skindiseaseproject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-04-30 00:09:41,406:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:09:51,209:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:09:51,220:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:09:53,387: 127.0.0.1 - - [30/Apr/2025 00:09:53] "GET / HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:09:53] "GET / HTTP/1.1" 200 -]
+[2025-04-30 00:10:21,209: 127.0.0.1 - - [30/Apr/2025 00:10:21] "POST /predict HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:10:21] "POST /predict HTTP/1.1" 200 -]
+[2025-04-30 00:11:07,444:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-04-30 00:11:08,540:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:11:18,596:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:11:18,604:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:11:46,725: 127.0.0.1 - - [30/Apr/2025 00:11:46] "POST /predict HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:11:46] "POST /predict HTTP/1.1" 200 -]
+[2025-04-30 00:12:32,207:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\app.py', reloading: _internal:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\app.py', reloading]
+[2025-04-30 00:12:32,932:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:12:41,679:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:12:41,691:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:13:00,561: 127.0.0.1 - - [30/Apr/2025 00:13:00] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:13:00] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2025-04-30 00:13:25,467:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\app.py', reloading: _internal:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\app.py', reloading]
+[2025-04-30 00:13:26,284:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:13:38,010: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.245:8080: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.245:8080]
+[2025-04-30 00:13:38,010: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-30 00:13:38,016:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:13:47,283:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:13:47,287:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:13:48,879: 127.0.0.1 - - [30/Apr/2025 00:13:48] "GET / HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:13:48] "GET / HTTP/1.1" 200 -]
+[2025-04-30 00:14:19,784: 127.0.0.1 - - [30/Apr/2025 00:14:19] "POST /predict HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:14:19] "POST /predict HTTP/1.1" 200 -]
+[2025-04-30 00:14:52,055: 127.0.0.1 - - [30/Apr/2025 00:14:52] "POST /predict HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:14:52] "POST /predict HTTP/1.1" 200 -]
+[2025-04-30 00:15:31,623: 127.0.0.1 - - [30/Apr/2025 00:15:31] "POST /predict HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:15:31] "POST /predict HTTP/1.1" 200 -]
+[2025-04-30 00:16:35,119: 127.0.0.1 - - [30/Apr/2025 00:16:35] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:16:35] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2025-04-30 00:17:00,175:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\SkinDiseaseProject\\skin_disease_predictor\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-04-30 00:17:01,416:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-04-30 00:17:10,090:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-04-30 00:17:10,094:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-04-30 00:17:23,728: 127.0.0.1 - - [30/Apr/2025 00:17:23] "GET / HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:17:23] "GET / HTTP/1.1" 200 -]
+[2025-04-30 00:17:48,063: 127.0.0.1 - - [30/Apr/2025 00:17:48] "POST /predict HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:17:48] "POST /predict HTTP/1.1" 200 -]
+[2025-04-30 00:18:41,951: 127.0.0.1 - - [30/Apr/2025 00:18:41] "POST /predict HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:18:41] "POST /predict HTTP/1.1" 200 -]
+[2025-04-30 00:19:38,584: 127.0.0.1 - - [30/Apr/2025 00:19:38] "POST /predict HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:19:38] "POST /predict HTTP/1.1" 200 -]
+[2025-04-30 00:20:48,251: 127.0.0.1 - - [30/Apr/2025 00:20:48] "POST /predict HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [30/Apr/2025 00:20:48] "POST /predict HTTP/1.1" 200 -]
+[2025-05-04 01:19:47,981: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.245:8080: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.245:8080]
+[2025-05-04 01:19:47,981: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-05-04 01:19:47,983:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-05-04 01:19:54,284:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-05-04 01:19:54,284:  * Debugger PIN: 634-178-480: _internal:  * Debugger PIN: 634-178-480]
+[2025-05-04 01:20:18,512: 192.168.29.245 - - [04/May/2025 01:20:18] "GET / HTTP/1.1" 200 -: _internal: 192.168.29.245 - - [04/May/2025 01:20:18] "GET / HTTP/1.1" 200 -]
+[2025-05-04 01:21:25,589: 192.168.29.245 - - [04/May/2025 01:21:25] "POST /predict HTTP/1.1" 200 -: _internal: 192.168.29.245 - - [04/May/2025 01:21:25] "POST /predict HTTP/1.1" 200 -]
+[2025-07-05 23:58:52,399: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-05 23:58:52,399: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-05 23:58:52,402:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-05 23:58:58,133:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-05 23:58:58,136:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:05:59,598: 127.0.0.1 - - [06/Jul/2025 00:05:59] "[33mOPTIONS /predict-skin HTTP/1.1[0m" 404 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:05:59] "[33mOPTIONS /predict-skin HTTP/1.1[0m" 404 -]
+[2025-07-06 00:08:46,128:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading]
+[2025-07-06 00:08:46,958:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:08:53,619:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:08:53,622:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:09:05,605:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading]
+[2025-07-06 00:09:06,368:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:09:12,290:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:09:12,293:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:09:17,772: 127.0.0.1 - - [06/Jul/2025 00:09:17] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:09:17] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:09:38,767: 127.0.0.1 - - [06/Jul/2025 00:09:38] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:09:38] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:15:15,825: 127.0.0.1 - - [06/Jul/2025 00:15:15] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:15:15] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:18:45,254: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-06 00:18:45,254: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-06 00:18:45,256:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:18:51,118:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:18:51,121:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:19:06,753: 127.0.0.1 - - [06/Jul/2025 00:19:06] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:19:06] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:19:49,405:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading]
+[2025-07-06 00:19:50,170:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:19:55,996:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:19:56,000:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:19:57,332: 127.0.0.1 - - [06/Jul/2025 00:19:57] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:19:57] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:20:26,045: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-06 00:20:26,046: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-06 00:20:26,047:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:20:31,708:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:20:31,712:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:20:40,379: 127.0.0.1 - - [06/Jul/2025 00:20:40] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:20:40] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:22:35,141:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading]
+[2025-07-06 00:22:35,944:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:22:41,933:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:22:41,936:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:22:44,714: 127.0.0.1 - - [06/Jul/2025 00:22:44] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:22:44] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:24:29,194:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading]
+[2025-07-06 00:24:30,367:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:24:36,604:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:24:36,607:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:24:47,231: 127.0.0.1 - - [06/Jul/2025 00:24:47] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:24:47] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:26:02,345:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading]
+[2025-07-06 00:26:03,406:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:27:08,618: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-06 00:27:08,618: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-06 00:27:08,621:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:27:21,545:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:27:21,555:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:27:23,526: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:27:23,532: 127.0.0.1 - - [06/Jul/2025 00:27:23] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:27:23] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:27:23,859: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:27:24,179: 127.0.0.1 - - [06/Jul/2025 00:27:24] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:27:24] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 00:31:44,889: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:31:44,891: 127.0.0.1 - - [06/Jul/2025 00:31:44] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:31:44] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:31:45,199: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:31:45,221: 127.0.0.1 - - [06/Jul/2025 00:31:45] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:31:45] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 00:33:23,032: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:33:23,039: 127.0.0.1 - - [06/Jul/2025 00:33:23] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:33:23] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:33:23,352: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:33:24,318: 127.0.0.1 - - [06/Jul/2025 00:33:24] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:33:24] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 00:35:36,241:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading]
+[2025-07-06 00:35:37,196:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:35:51,680:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:35:51,829:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:36:00,329: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:36:00,332: 127.0.0.1 - - [06/Jul/2025 00:36:00] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:36:00] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:36:00,656: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:36:01,601: 127.0.0.1 - - [06/Jul/2025 00:36:01] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:36:01] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 00:37:53,175:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading]
+[2025-07-06 00:37:54,169:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:38:05,073:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:38:05,081:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:38:07,774: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:38:07,775: 127.0.0.1 - - [06/Jul/2025 00:38:07] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:38:07] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:38:08,098: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:38:08,809: 127.0.0.1 - - [06/Jul/2025 00:38:08] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:38:08] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 00:41:09,665: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-06 00:41:09,666: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-06 00:41:09,669:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:41:23,508:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:41:23,514:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:41:33,108: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:41:33,111: 127.0.0.1 - - [06/Jul/2025 00:41:33] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:41:33] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:41:33,433: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:41:33,453: 127.0.0.1 - - [06/Jul/2025 00:41:33] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:41:33] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 00:42:21,312: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:42:21,313: 127.0.0.1 - - [06/Jul/2025 00:42:21] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:42:21] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:42:21,624: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:42:23,113: 127.0.0.1 - - [06/Jul/2025 00:42:23] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:42:23] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 00:45:06,374:  * Detected change in 'c:\\web development\\cure-catalyst\\project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'c:\\web development\\cure-catalyst\\project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-07-06 00:45:07,460:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:45:49,539: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-06 00:45:49,539: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-06 00:45:49,541:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:45:57,817:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:45:57,822:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:46:05,465: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:46:05,468: 127.0.0.1 - - [06/Jul/2025 00:46:05] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:46:05] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:46:05,788: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:46:08,573: 127.0.0.1 - - [06/Jul/2025 00:46:08] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:46:08] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 00:47:13,190:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-07-06 00:47:14,532:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:47:25,867:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:47:25,874:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:47:27,479: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:47:27,481: 127.0.0.1 - - [06/Jul/2025 00:47:27] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:47:27] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:47:27,805: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:47:29,204: 127.0.0.1 - - [06/Jul/2025 00:47:29] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:47:29] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 00:49:59,666:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-07-06 00:50:01,021:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:50:14,464:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:50:14,467:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:50:24,541:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-07-06 00:50:25,518:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:50:35,514:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:50:35,520:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:50:38,777:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-07-06 00:50:40,020:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:50:51,961:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:50:51,966:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:51:06,927:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-07-06 00:51:08,000:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:51:17,555:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:51:17,559:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:51:44,625: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:51:44,628: 127.0.0.1 - - [06/Jul/2025 00:51:44] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:51:44] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:51:44,950: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:51:48,431: 127.0.0.1 - - [06/Jul/2025 00:51:48] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:51:48] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:53:31,453: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:53:31,454: 127.0.0.1 - - [06/Jul/2025 00:53:31] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:53:31] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:53:31,763: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:53:34,939: 127.0.0.1 - - [06/Jul/2025 00:53:34] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:53:34] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 00:55:20,324:  * Detected change in 'c:\\web development\\cure-catalyst\\project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'c:\\web development\\cure-catalyst\\project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-07-06 00:55:22,166:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:55:38,539:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:55:38,545:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:56:03,381: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:56:03,383: 127.0.0.1 - - [06/Jul/2025 00:56:03] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:56:03] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:56:03,704: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:56:07,377: 127.0.0.1 - - [06/Jul/2025 00:56:07] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:56:07] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:56:26,972: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:56:26,990: 127.0.0.1 - - [06/Jul/2025 00:56:26] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:56:26] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:56:27,004: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:56:38,141: 127.0.0.1 - - [06/Jul/2025 00:56:38] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:56:38] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:58:29,160:  * Detected change in 'c:\\web development\\cure-catalyst\\project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'c:\\web development\\cure-catalyst\\project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-07-06 00:58:30,402:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:58:42,238:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:58:42,245:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:58:45,423:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-07-06 00:58:46,510:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 00:58:56,268:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 00:58:56,272:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 00:59:09,180: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:59:09,181: 127.0.0.1 - - [06/Jul/2025 00:59:09] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:59:09] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 00:59:09,490: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 00:59:19,506: 127.0.0.1 - - [06/Jul/2025 00:59:19] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 00:59:19] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 01:01:27,805:  * Detected change in 'c:\\web development\\cure-catalyst\\project\\ml_server\\src\\Acne_Prediction\\utils\\common.py', reloading: _internal:  * Detected change in 'c:\\web development\\cure-catalyst\\project\\ml_server\\src\\Acne_Prediction\\utils\\common.py', reloading]
+[2025-07-06 01:01:29,328:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 01:01:40,688:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 01:01:40,695:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 01:02:26,588: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 01:02:26,590: 127.0.0.1 - - [06/Jul/2025 01:02:26] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 01:02:26] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 01:02:26,899: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 01:02:37,928: 127.0.0.1 - - [06/Jul/2025 01:02:37] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 01:02:37] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 01:26:29,510:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\utils\\common.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\utils\\common.py', reloading]
+[2025-07-06 01:26:31,090:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 01:32:42,481: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-06 01:32:42,481: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-06 01:32:42,482:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 01:32:56,897:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 01:32:56,909:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 01:32:58,881: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 01:32:58,890: 127.0.0.1 - - [06/Jul/2025 01:32:58] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 01:32:58] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 01:32:59,232: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 01:32:59,341: 127.0.0.1 - - [06/Jul/2025 01:32:59] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 01:32:59] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 01:33:35,120: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 01:33:35,122: 127.0.0.1 - - [06/Jul/2025 01:33:35] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 01:33:35] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 01:33:35,131: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 01:33:35,165: 127.0.0.1 - - [06/Jul/2025 01:33:35] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 01:33:35] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 01:34:41,720: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 01:34:41,722: 127.0.0.1 - - [06/Jul/2025 01:34:41] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 01:34:41] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 01:34:42,035: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 01:34:57,184: 127.0.0.1 - - [06/Jul/2025 01:34:57] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 01:34:57] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 20:30:33,118: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-06 20:30:33,120: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-06 20:30:33,124:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 20:30:46,763:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 20:30:46,774:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 20:31:31,152: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 20:31:31,154: 127.0.0.1 - - [06/Jul/2025 20:31:31] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 20:31:31] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 20:31:31,475: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 20:31:31,582: 127.0.0.1 - - [06/Jul/2025 20:31:31] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 20:31:31] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 20:34:55,402: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 20:34:55,403: 127.0.0.1 - - [06/Jul/2025 20:34:55] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 20:34:55] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 20:34:55,728: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 20:34:55,744: 127.0.0.1 - - [06/Jul/2025 20:34:55] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [06/Jul/2025 20:34:55] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-06 20:37:06,277: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 20:37:06,278: 127.0.0.1 - - [06/Jul/2025 20:37:06] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 20:37:06] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 20:37:06,589: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 20:37:23,205: 127.0.0.1 - - [06/Jul/2025 20:37:23] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 20:37:23] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 20:46:04,759: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 20:46:04,760: 127.0.0.1 - - [06/Jul/2025 20:46:04] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 20:46:04] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 20:46:05,083: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 20:46:08,864: 127.0.0.1 - - [06/Jul/2025 20:46:08] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 20:46:08] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 20:46:55,474: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 20:46:55,485: 127.0.0.1 - - [06/Jul/2025 20:46:55] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 20:46:55] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 20:46:55,818: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 20:47:07,033: 127.0.0.1 - - [06/Jul/2025 20:47:07] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 20:47:07] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 21:08:12,440: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 21:08:12,443: 127.0.0.1 - - [06/Jul/2025 21:08:12] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 21:08:12] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 21:08:12,760: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 21:08:22,571: 127.0.0.1 - - [06/Jul/2025 21:08:22] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 21:08:22] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 21:38:00,532: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 21:38:00,533: 127.0.0.1 - - [06/Jul/2025 21:38:00] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 21:38:00] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 21:38:00,856: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 21:38:11,996: 127.0.0.1 - - [06/Jul/2025 21:38:11] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 21:38:11] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 22:45:04,992: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 22:45:04,998: 127.0.0.1 - - [06/Jul/2025 22:45:04] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 22:45:04] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 22:45:05,306: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 22:45:32,496: 127.0.0.1 - - [06/Jul/2025 22:45:32] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 22:45:32] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 22:53:07,993: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 22:53:07,994: 127.0.0.1 - - [06/Jul/2025 22:53:07] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 22:53:07] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 22:53:08,307: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-06 22:53:26,561: 127.0.0.1 - - [06/Jul/2025 22:53:26] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [06/Jul/2025 22:53:26] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-06 23:06:00,056:  * Detected change in 'c:\\web development\\cure-catalyst\\project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'c:\\web development\\cure-catalyst\\project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-07-06 23:06:01,471:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 23:06:10,018:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 23:06:10,021:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-06 23:06:14,169:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\src\\Acne_Prediction\\pipeline\\predict.py', reloading]
+[2025-07-06 23:06:14,852:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-06 23:06:20,708:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-06 23:06:20,711:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-07 21:02:59,953: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-07 21:02:59,954: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-07 21:02:59,956:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-07 21:03:08,523:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-07 21:03:08,536:  * Debugger PIN: 645-363-750: _internal:  * Debugger PIN: 645-363-750]
+[2025-07-07 21:03:31,064: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-07 21:03:31,065: 127.0.0.1 - - [07/Jul/2025 21:03:31] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [07/Jul/2025 21:03:31] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-07 21:03:31,375: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-07 21:03:42,378: 127.0.0.1 - - [07/Jul/2025 21:03:42] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [07/Jul/2025 21:03:42] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-10 23:12:35,676: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-10 23:12:35,677: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-10 23:12:35,680:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-10 23:12:41,063:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-10 23:12:41,066:  * Debugger PIN: 868-932-385: _internal:  * Debugger PIN: 868-932-385]
+[2025-07-10 23:13:27,191: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-10 23:13:27,195: 127.0.0.1 - - [10/Jul/2025 23:13:27] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [10/Jul/2025 23:13:27] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-10 23:13:27,519: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-10 23:13:27,612: 127.0.0.1 - - [10/Jul/2025 23:13:27] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [10/Jul/2025 23:13:27] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-10 23:14:05,005: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-10 23:14:05,006: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-10 23:14:05,008:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-10 23:14:10,493:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-10 23:14:10,496:  * Debugger PIN: 868-932-385: _internal:  * Debugger PIN: 868-932-385]
+[2025-07-10 23:14:16,151: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-10 23:14:16,152: 127.0.0.1 - - [10/Jul/2025 23:14:16] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [10/Jul/2025 23:14:16] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-10 23:14:16,464: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-10 23:14:16,470: 127.0.0.1 - - [10/Jul/2025 23:14:16] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [10/Jul/2025 23:14:16] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-10 23:15:16,215: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-10 23:15:16,216: 127.0.0.1 - - [10/Jul/2025 23:15:16] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [10/Jul/2025 23:15:16] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-10 23:15:16,218: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-10 23:15:41,415: 127.0.0.1 - - [10/Jul/2025 23:15:41] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [10/Jul/2025 23:15:41] "POST /predict-skin HTTP/1.1" 200 -]
