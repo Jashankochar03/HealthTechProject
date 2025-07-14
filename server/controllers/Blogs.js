@@ -134,68 +134,99 @@ exports.editBlog = async (req, res) => {
   try {
     const { blogId } = req.body
     const updates = req.body
+
+    // Find the existing blog
     const blog = await Blogs.findById(blogId)
-
     if (!blog) {
-      return res.status(404).json({ error: "Blog not found" })
+      return res.status(404).json({ success: false, message: "Blog not found" })
     }
 
-    // If Thumbnail Image is found, update it
-    if (req.files) {
-      console.log("thumbnail update")
-      const image = await uploadImageToCloudinary(
-      thumbnail,
-      process.env.FOLDER_NAME,
-      1000,
-      1000
-    )
-      blog.thumbnail = image.secure_url
-    }
-
-    // Update only the fields that are present in the request body
+    // Allowed fields to update
     const allowedUpdates = [
       "blogName",
-      "blogData",
       "blogDescription",
+      "blogData",
       "status",
+      "readingTime",
       "category"
     ]
 
+    // Apply valid updates
     allowedUpdates.forEach((field) => {
       if (updates[field] !== undefined) {
         blog[field] = updates[field]
       }
     })
 
+    // Validate new category if updated
+    if (updates.category) {
+      const categoryDetails = await BlogsCategory.findById(updates.category)
+      if (!categoryDetails) {
+        return res.status(404).json({
+          success: false,
+          message: "Category not found",
+        })
+      }
+      blog.category = categoryDetails._id
+    }
+
+    // Upload new thumbnail if provided
+    if (req.files?.thumbnailImage) {
+      const uploadedThumbnail = await uploadImageToCloudinary(
+        req.files.thumbnailImage,
+        process.env.FOLDER_NAME,
+        1000,
+        1000
+      )
+      blog.thumbnail = uploadedThumbnail.secure_url
+    }
+
+    // Optional: Handle updating inline images
+    if (req.files?.images) {
+      const imageFiles = Array.isArray(req.files.images)
+        ? req.files.images
+        : [req.files.images]
+
+      const uploadedImageUrls = []
+      for (const img of imageFiles) {
+        const uploaded = await uploadImageToCloudinary(
+          img,
+          process.env.FOLDER_NAME,
+          1000,
+          1000
+        )
+        uploadedImageUrls.push(uploaded.secure_url)
+      }
+
+      blog.images = uploadedImageUrls
+    }
+
+    // Save the blog
     await blog.save()
 
-    const updatedBlog = await Blogs.findOne({
-      _id: blogId,
-    })
+    // Return updated blog
+    const updatedBlog = await Blogs.findById(blogId)
       .populate({
         path: "creator",
-        populate: {
-          path: "additionalDetails",
-        },
+        populate: { path: "additionalDetails" },
       })
       .populate("category")
-      .populate("ratingAndReviews")
-      .exec()
 
-    res.json({
+    return res.status(200).json({
       success: true,
       message: "Blog updated successfully",
       data: updatedBlog,
     })
   } catch (error) {
-    console.error(error)
-    res.status(500).json({
+    console.error("Edit Blog Error:", error)
+    return res.status(500).json({
       success: false,
       message: "Internal server error",
       error: error.message,
     })
   }
 }
+
 
 exports.getAllBlogs = async (req, res) => {
   try {

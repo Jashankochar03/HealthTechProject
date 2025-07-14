@@ -29,6 +29,7 @@ import CourseDetails from "./pages/CourseDetails";
 import Doctor from "./components/core/Dashboard/DoctorDashboard/Doctor";
 import Blog from "./pages/Blogs";
 import SingleBlog from "./pages/SingleBlog";
+import AddBlog from "./components/core/Dashboard/AddBlog";
 
 function App() {
 
@@ -153,7 +154,7 @@ function App() {
           <Route path="dashboard/add-disease" element={<AddDisease />} />
           <Route path="dashboard/my-addedDiseases" element={<MyAddedDiseases />} />
           <Route path="dashboard/edit-disease/:diseaseId" element={<EditDisease />} />
-          
+          <Route path="dashboard/add-blog" element={<AddBlog />} />
           </>
         )
       }

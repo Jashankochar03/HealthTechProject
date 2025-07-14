@@ -657,3 +657,96 @@ FileNotFoundError: [WinError 3] The system cannot find the path specified: 'arti
 [2025-07-10 23:15:16,216: 127.0.0.1 - - [10/Jul/2025 23:15:16] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [10/Jul/2025 23:15:16] "OPTIONS /predict-skin HTTP/1.1" 200 -]
 [2025-07-10 23:15:16,218: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
 [2025-07-10 23:15:41,415: 127.0.0.1 - - [10/Jul/2025 23:15:41] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [10/Jul/2025 23:15:41] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-11 03:19:15,683: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:19:15,694: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:19:15,709: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:19:15,925: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-11 03:19:15,929: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-11 03:19:15,942:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-11 03:20:27,167: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:20:27,175: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:20:27,199: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:20:27,255:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-11 03:20:27,290:  * Debugger PIN: 868-932-385: _internal:  * Debugger PIN: 868-932-385]
+[2025-07-11 03:20:45,366: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-11 03:20:45,374: 127.0.0.1 - - [11/Jul/2025 03:20:45] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [11/Jul/2025 03:20:45] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-11 03:20:45,726: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-11 03:20:57,791: 127.0.0.1 - - [11/Jul/2025 03:20:57] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [11/Jul/2025 03:20:57] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-11 03:21:29,030: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-11 03:21:29,043: 127.0.0.1 - - [11/Jul/2025 03:21:29] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [11/Jul/2025 03:21:29] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-11 03:21:29,060: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-11 03:21:44,353: 127.0.0.1 - - [11/Jul/2025 03:21:44] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [11/Jul/2025 03:21:44] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-11 03:23:59,099:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading]
+[2025-07-11 03:24:04,110:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-11 03:25:29,909: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:25:29,918: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:25:29,925: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:25:29,978:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-11 03:25:30,012:  * Debugger PIN: 868-932-385: _internal:  * Debugger PIN: 868-932-385]
+[2025-07-11 03:25:37,396: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-11 03:25:37,406: 127.0.0.1 - - [11/Jul/2025 03:25:37] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [11/Jul/2025 03:25:37] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-11 03:25:37,739: Unknown option passed to Flask-CORS: origin: core: Unknown option passed to Flask-CORS: origin]
+[2025-07-11 03:26:14,851:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading: _internal:  * Detected change in 'C:\\web development\\Cure-Catalyst\\Project\\ml_server\\app.py', reloading]
+[2025-07-11 03:26:20,368:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-11 03:27:39,938: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:27:39,948: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:27:40,003: python-dotenv could not parse statement starting at line 1: main: python-dotenv could not parse statement starting at line 1]
+[2025-07-11 03:27:40,084:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-11 03:27:40,125:  * Debugger PIN: 868-932-385: _internal:  * Debugger PIN: 868-932-385]
+[2025-07-11 03:27:48,663: 127.0.0.1 - - [11/Jul/2025 03:27:48] "[35m[1mOPTIONS /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [11/Jul/2025 03:27:48] "[35m[1mOPTIONS /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-11 03:30:14,546: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-11 03:30:14,547: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-11 03:30:14,550:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-11 03:30:26,682:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-11 03:30:26,692:  * Debugger PIN: 868-932-385: _internal:  * Debugger PIN: 868-932-385]
+[2025-07-11 03:30:28,627: 127.0.0.1 - - [11/Jul/2025 03:30:28] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [11/Jul/2025 03:30:28] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-11 03:30:41,000: 127.0.0.1 - - [11/Jul/2025 03:30:41] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -: _internal: 127.0.0.1 - - [11/Jul/2025 03:30:41] "[35m[1mPOST /predict-skin HTTP/1.1[0m" 500 -]
+[2025-07-11 03:33:22,087: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-11 03:33:22,088: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-11 03:33:22,092:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-11 03:33:34,712:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-11 03:33:34,723:  * Debugger PIN: 868-932-385: _internal:  * Debugger PIN: 868-932-385]
+[2025-07-11 03:33:36,757: 127.0.0.1 - - [11/Jul/2025 03:33:36] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [11/Jul/2025 03:33:36] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-11 03:33:50,873: 127.0.0.1 - - [11/Jul/2025 03:33:50] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [11/Jul/2025 03:33:50] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-11 04:08:57,706: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-11 04:08:57,708: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-11 04:08:57,713:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-11 04:09:07,479:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-11 04:09:07,487:  * Debugger PIN: 868-932-385: _internal:  * Debugger PIN: 868-932-385]
+[2025-07-11 04:09:46,309: 127.0.0.1 - - [11/Jul/2025 04:09:46] "OPTIONS /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [11/Jul/2025 04:09:46] "OPTIONS /predict-skin HTTP/1.1" 200 -]
+[2025-07-11 04:10:03,347: 127.0.0.1 - - [11/Jul/2025 04:10:03] "POST /predict-skin HTTP/1.1" 200 -: _internal: 127.0.0.1 - - [11/Jul/2025 04:10:03] "POST /predict-skin HTTP/1.1" 200 -]
+[2025-07-11 13:44:27,855: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.29.245:8000]
+[2025-07-11 13:44:27,867: [33mPress CTRL+C to quit[0m: _internal: [33mPress CTRL+C to quit[0m]
+[2025-07-11 13:44:27,885:  * Restarting with stat: _internal:  * Restarting with stat]
+[2025-07-11 13:45:40,160:  * Debugger is active!: _internal:  * Debugger is active!]
+[2025-07-11 13:45:40,175:  * Debugger PIN: 868-932-385: _internal:  * Debugger PIN: 868-932-385]

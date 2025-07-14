@@ -94,5 +94,7 @@ export const healthEndpoints = {
 export const blogEndpoints = {
   GET_ALL_BLOGS_API : BASE_URL + "/blogs/getAllBlogs",
   SHOW_ALL_CATEGORIES: BASE_URL + "/blogs/showAllCategories",
-  GET_BLOG_DETAILS : BASE_URL + "/blogs/getBlogDetails"
+  GET_BLOG_DETAILS : BASE_URL + "/blogs/getBlogDetails",
+  CREATE_BLOG_API : BASE_URL + "/blogs/createBlog",
+  EDIT_BLOG_API : BASE_URL + "/blogs/editBlog"
 }

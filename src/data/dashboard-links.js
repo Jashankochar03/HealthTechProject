@@ -27,6 +27,13 @@ export const sidebarLinks = [
     type: ACCOUNT_TYPE.DOCTOR,
     icon: "VscAdd",
   },
+    {
+    id: 4,
+    name: "Add Blog",
+    path: "/dashboard/add-blog",
+    type: ACCOUNT_TYPE.DOCTOR,
+    icon: "VscAdd",
+    },
   {
     id: 5,
     name: "Health Progress",

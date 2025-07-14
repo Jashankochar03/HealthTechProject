@@ -3,63 +3,58 @@ import { useForm } from "react-hook-form"
 import { useDispatch, useSelector } from "react-redux"
 import { useNavigate } from "react-router-dom"
 
-import { editDiseaseDetails } from "../../../../../services/operations/diseaseDetailsAPI"
-import { resetDiseaseState, setStep } from "../../../../../slices/diseaseSlice"
-import { DISEASE_STATUS } from "../../../../../utils/constants"
-import IconBtn from "../../../../common/IconBtn"
+import { editBlog } from "../../../../services/operations/blogAPI"
+import { resetBlogState,setStep } from "../../../../slices/blogSlice"
+import { BLOG_STATUS } from "../../../../utils/constants"
+import IconBtn from "../../../common/IconBtn"
 
-export default function PublishDisease() {
-  const {
-    register,
-    handleSubmit,
-    setValue,
-    watch,
-  } = useForm()
-
+export default function PublishBlog() {
+  const { register, handleSubmit, setValue, watch } = useForm()
   const dispatch = useDispatch()
   const navigate = useNavigate()
   const { token } = useSelector((state) => state.auth)
-  const { disease } = useSelector((state) => state.disease)
+  const { blog } = useSelector((state) => state.blog)
   const [loading, setLoading] = useState(false)
 
+  // Pre-fill the checkbox if blog is already published
   useEffect(() => {
-    if (disease?.status === DISEASE_STATUS.PUBLISHED) {
+    if (blog?.status === BLOG_STATUS.PUBLISHED) {
       setValue("public", true)
     }
-  }, [disease, setValue])
+  }, [blog, setValue])
 
   const goBack = () => {
     dispatch(setStep(2))
   }
 
-  const goToDiseases = () => {
-    dispatch(resetDiseaseState())
-    navigate("/dashboard/my-addedDisease")
+  const goToBlogs = () => {
+    dispatch(resetBlogState())
+    navigate("/dashboard/my-blogs")
   }
 
   const onSubmit = async (data) => {
-    const shouldBePublished = data.public
-    const alreadyPublished = disease?.status === DISEASE_STATUS.PUBLISHED
+    const isPublishing = data.public
+    const alreadyPublished = blog?.status === BLOG_STATUS.PUBLISHED
 
-    // If no change in publish status, just redirect
+    // Avoid unnecessary API call
     if (
-      (alreadyPublished && shouldBePublished) ||
-      (!alreadyPublished && !shouldBePublished)
+      (alreadyPublished && isPublishing) ||
+      (!alreadyPublished && !isPublishing)
     ) {
-      goToDiseases()
+      goToBlogs()
       return
     }
 
     const formData = new FormData()
-    formData.append("diseaseId", disease._id)
-    formData.append("status", shouldBePublished ? DISEASE_STATUS.PUBLISHED : DISEASE_STATUS.DRAFT)
+    formData.append("blogId", blog._id)
+    formData.append("status", isPublishing ? BLOG_STATUS.PUBLISHED : BLOG_STATUS.DRAFT)
 
     setLoading(true)
-    const result = await editDiseaseDetails(formData, token)
+    const result = await editBlog(formData, token)
     setLoading(false)
 
     if (result) {
-      goToDiseases()
+      goToBlogs()
     }
   }
 
@@ -68,9 +63,8 @@ export default function PublishDisease() {
       <p className="text-2xl font-semibold text-richblack-5">
         Publish Settings
       </p>
-
       <form onSubmit={handleSubmit(onSubmit)}>
-        {/* Checkbox */}
+        {/* Public Checkbox */}
         <div className="my-6 mb-8">
           <label htmlFor="public" className="inline-flex items-center text-lg">
             <input
@@ -80,7 +74,7 @@ export default function PublishDisease() {
               className="border-gray-300 h-4 w-4 rounded bg-richblack-500 text-richblack-400 focus:ring-2 focus:ring-richblack-5"
             />
             <span className="ml-2 text-richblack-400">
-              Make this added disease visible to public
+              Make this blog public
             </span>
           </label>
         </div>
@@ -88,9 +82,9 @@ export default function PublishDisease() {
         {/* Buttons */}
         <div className="ml-auto flex max-w-max items-center gap-x-4">
           <button
-            disabled={loading}
             type="button"
             onClick={goBack}
+            disabled={loading}
             className="flex cursor-pointer items-center gap-x-2 rounded-md bg-richblack-300 py-[8px] px-[20px] font-semibold text-richblack-900"
           >
             Back

@@ -8,3 +8,8 @@ export const DISEASE_STATUS = {
   DRAFT: "Draft",
   PUBLISHED: "Published",
 }
+
+export const BLOG_STATUS = {
+  DRAFT: "Draft",
+  PUBLISHED: "Published",
+}

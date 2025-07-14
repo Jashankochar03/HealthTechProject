@@ -7,6 +7,9 @@
 
 # testing
 /coverage
+.env 
+server/.env
+ml_server/.env
 
 # production
 /build
