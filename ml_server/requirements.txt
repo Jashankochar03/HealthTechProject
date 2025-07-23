@@ -17,4 +17,15 @@ Flask-Cors
 gdown
 cloudinary
 mysql
+Flask
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-groq
+faiss-cpu
+tiktoken
+PyPDF2
+python-dotenv
 #-e .
